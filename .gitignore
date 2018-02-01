@@ -1,0 +1,11 @@
+.idea
+.gradle
+.nyc_output
+node_modules
+doc
+dist
+build
+coverage
+*.log
+*.iml
+.vs
