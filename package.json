@@ -1,7 +1,7 @@
 {
-  "name": "threading-example",
-  "version": "0.0.6",
-  "description": "Node.js Threading Template",
+  "name": "class-validator-test",
+  "version": "0.0.7",
+  "description": "A project for testing various aspects of the typestack/class-validator library.",
   "main": "dist/server.js",
   "private": true,
   "engines": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://heironimus.visualstudio.com/Node.js%20Threading%20Example/_git/threading-example"
+    "url": "https://github.com/MHeironimus/class-validator-test"
   },
   "scripts": {
     "start": "npm run build && npm run watch",
