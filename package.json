@@ -1,6 +1,6 @@
 {
   "name": "class-validator-test",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "A project for testing various aspects of the typestack/class-validator library.",
   "main": "dist/server.js",
   "private": true,
